@@ -1,0 +1,17 @@
+.header{
+    text-align: center;
+    display: flex;
+
+}
+.logo{
+    height: 50px;
+}
+.navbar{
+    padding: 0;
+}
+.navbar-brand{
+    padding: 0;
+}
+.nav-item:hover{
+    background-color: rgb(53, 202, 78);
+}
